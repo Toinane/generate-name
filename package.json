@@ -1,9 +1,9 @@
 {
-  "name": "name-generator",
+  "name": "generate-name",
   "version": "0.0.1",
   "description": "Just a name generator",
   "main": "index.js",
-  "repository": "https://github.com/Toinane/name-generator",
+  "repository": "https://github.com/Toinane/generate-name",
   "author": "toinane <toinane@crea-that.fr>",
   "license": "MIT"
 }
